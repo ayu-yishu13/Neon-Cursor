@@ -2,6 +2,9 @@
 
 A stylish and modern web project that adds a **neon glowing cursor trail effect** to your website. This project demonstrates how to enhance user interaction and aesthetics using HTML, CSS, and JavaScript.
 
+
+## VERCEL
+Live https://neon-cursor-six.vercel.app/
 ## 🔮 Features
 
 - Neon glowing cursor trail
